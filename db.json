@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "d9fe",
+      "name": "Paul Émile PECKOUET-BINOMBO",
+      "phone": "772995851",
+      "indicatif": "221",
+      "country": "SN"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Alice Martin",
+      "indicatif": "221",
+      "phone": "771234567",
+      "lastMessage": "",
+      "time": "",
+      "unread": 0
+    },
+    {
+      "id": "2",
+      "name": "Bob Dupont",
+      "indicatif": "33",
+      "phone": "612345678",
+      "lastMessage": "",
+      "time": "",
+      "unread": 0
+    },
+    {
+      "id": "4790",
+      "name": "Pape",
+      "indicatif": "221",
+      "phone": "781157773",
+      "lastMessage": "",
+      "time": "",
+      "unread": 0
+    }
+  ],
+  "conversations": []
+}
